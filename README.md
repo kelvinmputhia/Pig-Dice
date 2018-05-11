@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ####PIG-DICE
 ## Description
 This web application allows two players to play agame
@@ -15,3 +16,6 @@ i used html css javascript languages  to come up with this web application  that
 ### License
 *copyright*
 Copyright 2018 **kelvin mutea
+=======
+# Pig-Dice
+>>>>>>> 8c13590d4c0ce2e4310424d202ae500fb5ef6050
