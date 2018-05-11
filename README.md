@@ -3,7 +3,7 @@
 ## Description
 This web application allows two players to play agame
 ## Setup/Installation Requirements
-* your can view my project through any browser by clicking at this link 
+* your can view my project through any browser by clicking at this link https://kelvinmputhia.github.io/Pig-Dice/ 
 ## Known Bugs
 i had difficuties in creating a README but i deleted it and created a new one
 ## Technologies Used
