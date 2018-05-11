@@ -1,0 +1,46 @@
+
+.player-console {
+  display: none;
+}
+.jumbotron {
+   background-image: url(../img/pig.jpeg);
+   background-repeat: no-repeat;
+   background-size: 100px;
+}
+body {
+      background-repeat: no-repeat;
+      background-image: url(../img/hack.jpeg);
+      background-size: cover;
+
+}
+.col-md-6 {
+  color:white;
+}
+h1 {
+  text-align: center;
+  color: Gray;
+}
+#start {
+  color: white;
+  background-color: black;
+}#new-game {
+  background-color: black;
+  color: white;
+  float: right;
+}
+#player1-roll {
+  background-color: violet;
+  color: black;
+}
+#player2-roll {
+  background-color: violet;
+  color: black;
+}
+#player1-hold {
+  background-color: red;
+  color: black;
+}
+#player2-hold {
+  background-color: red;
+  color: black;
+}
